@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{D9A3BEAD-85F8-4B2D-8497-D152302C3C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{B30DD51B-CC55-496D-9B15-6D6BB6A41094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractions", "Abstractions\Abstractions.csproj", "{A6D4E80E-76DB-48FE-9251-F04050178C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A3BEAD-85F8-4B2D-8497-D152302C3C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A3BEAD-85F8-4B2D-8497-D152302C3C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A3BEAD-85F8-4B2D-8497-D152302C3C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A3BEAD-85F8-4B2D-8497-D152302C3C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30DD51B-CC55-496D-9B15-6D6BB6A41094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30DD51B-CC55-496D-9B15-6D6BB6A41094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30DD51B-CC55-496D-9B15-6D6BB6A41094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30DD51B-CC55-496D-9B15-6D6BB6A41094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D4E80E-76DB-48FE-9251-F04050178C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D4E80E-76DB-48FE-9251-F04050178C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D4E80E-76DB-48FE-9251-F04050178C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D4E80E-76DB-48FE-9251-F04050178C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA9B723-91BD-44CD-87DD-E8F99FB34AC7}
+	EndGlobalSection
+EndGlobal
